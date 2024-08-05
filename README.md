@@ -25,17 +25,14 @@ Approach: Utilize Firebase, JWT, or OAuth as per the provided API documentation.
 7. UI/UX Design
 Goal: Ensure a visually appealing and intuitive frontend.
 Approach: Use libraries like Tailwind, Bootstrap, or Material UI for UI/UX design.
-8. Search Functionality
-Goal: Implement search functionality.
-Approach: Enable users to search for products easily, enhancing convenience and product discovery.
-9. Thorough Testing
+8. Thorough Testing
 Goal: Ensure all functionalities work as expected.
 Approach: Conduct thorough testing to provide a seamless and bug-free user experience.
-10. Documentation and Deployment
+9. Documentation and Deployment
 Goal: Provide clear documentation and deployment instructions.
-Approach:
+Approach:Document the development process, challenges faced, solutions implemented, and provide clear instructions for deploying and accessing the application.
 
-Document the development process, challenges faced, solutions implemented, and provide clear instructions for deploying and accessing the application.
+Deployment link : walmart07.netlify.app
 
 Getting Started
 Prerequisites
