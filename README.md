@@ -40,7 +40,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/walmart-webapp.git
+git clone https://github.com/sanskriti0606/walmart-webapp.git
 cd walmart-webapp
 Install dependencies:
 
@@ -68,20 +68,7 @@ Open your browser and navigate to http://localhost:3000.
 Project Structure
 plaintext
 Copy code
-walmart-webapp/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   ├── redux/
-│   ├── styles/
-│   ├── App.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+
 Authentication
 The application supports multiple authentication methods (Firebase, JWT, OAuth). Follow the API documentation for detailed implementation steps.
 
