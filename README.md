@@ -44,7 +44,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/sanskriti0606/walmart-webapp.git
+git clone https://github.com/sanskriti0606/Walmartapp
 cd walmart-webapp
 Install dependencies:
 
