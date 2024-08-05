@@ -61,39 +61,33 @@ Start the development server:
 bash
 Copy code
 npm start
-or
 
-bash
-Copy code
-yarn start
-Open your browser and navigate to http://localhost:3000.
-
-Project Structure
+Project Structure :
 plaintext
 Copy code
 
-Authentication
+Authentication:
 The application supports multiple authentication methods (Firebase, JWT, OAuth). Follow the API documentation for detailed implementation steps.
 
-State Management
+State Management :
 State management is handled using Redux Toolkit, Thunk, or Saga. Choose the one that fits best for your application and follow the setup instructions.
 
-UI/UX Design
+UI/UX Design :
 The application uses Tailwind, Bootstrap, or Material UI for UI/UX design. Customize the design to match the Walmart-inspired theme.
 
-Search Functionality
+Search Functionality :
 Search functionality is implemented to allow users to search for products. This enhances user convenience and product discovery.
 
-Testing
+Testing :
 Thoroughly test the application using tools like Jest and React Testing Library to ensure all functionalities work as expected.
 
-Deployment
+Deployment :
 Follow the deployment instructions in the docs/DEPLOYMENT.md file to deploy the application to your preferred hosting platform.
 
 Documentation
 Document the development process, challenges faced, and solutions implemented in the docs/ directory.
 
-Contributing
+Contributing :
 Fork the repository.
 Create your feature branch (git checkout -b feature/your-feature).
 Commit your changes (git commit -m 'Add some feature').
