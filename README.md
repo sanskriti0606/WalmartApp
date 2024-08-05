@@ -1,5 +1,7 @@
 Walmart WebApp Frontend Development
+
 Project Description
+
 Welcome to the Walmart-inspired web application! This project involves creating a modern, visually appealing frontend interface, integrating essential features like user authentication and cart management, and ensuring a seamless user experience. Below is an overview of the project's key components:
 
 1. Frontend Interface Development
