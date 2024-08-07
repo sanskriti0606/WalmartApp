@@ -32,8 +32,6 @@ Approach: Conduct thorough testing to provide a seamless and bug-free user exper
 Goal: Provide clear documentation and deployment instructions.
 Approach:Document the development process, challenges faced, solutions implemented, and provide clear instructions for deploying and accessing the application.
 
-Deployment link : https://walmart-app-07.netlify.app/
-
 Getting Started
 Prerequisites
 Node.js
