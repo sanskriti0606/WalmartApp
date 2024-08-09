@@ -7,7 +7,7 @@ import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  Paste your firebase credentials in the given keys
+  //Paste your firebase credentials in the given keys
   apiKey: "AIzaSyCZWJizLoc5iDDhd-Daj2HLj25huuCyTF0",
   authDomain: "walmartapp-f428a.firebaseapp.com",
   databaseURL: "https://walmartapp-f428a-default-rtdb.firebaseio.com",
